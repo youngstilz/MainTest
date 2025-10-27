@@ -36,7 +36,7 @@ public class MainPageTest {
         String text;
         text = $("input[data-test='search-input']").attr("value");
         System.out.println("Значение: " + text);
-        return text;111
+        return text;
     }
 
 
