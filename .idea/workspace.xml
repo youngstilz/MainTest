@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2deb3d17-4b53-4a6c-9bdc-a54a9d997d34" name="Changes" comment="" />
+    <list default="true" id="2deb3d17-4b53-4a6c-9bdc-a54a9d997d34" name="Changes" comment="add project files">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/zzz/MainPageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/zzz/MainPageTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,18 +16,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "youngstilz"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;youngstilz&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/youngstilz/MainTest.git",
-    "accountId": "bd7132d9-f8e8-4781-9336-38d9732fce0b"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/youngstilz/MainTest.git&quot;,
+    &quot;accountId&quot;: &quot;bd7132d9-f8e8-4781-9336-38d9732fce0b&quot;
   }
-}]]></component>
+}</component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/test/java/com/example/zzz/MainPageTest.java" root0="SKIP_INSPECTION" />
   </component>
@@ -50,6 +53,7 @@
     "JUnit.MainPageTest1.search.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/user/Desktop/javatestProjects/zzz",
@@ -148,10 +152,24 @@
       <workItem from="1761571014157" duration="687000" />
       <workItem from="1761572054041" duration="3435000" />
       <workItem from="1761580097040" duration="1116000" />
+      <workItem from="1761582266821" duration="367000" />
     </task>
+    <task id="LOCAL-00001" summary="add project files">
+      <option name="closed" value="true" />
+      <created>1761582386284</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1761582386284</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add project files" />
+    <option name="LAST_COMMIT_MESSAGE" value="add project files" />
   </component>
 </project>
