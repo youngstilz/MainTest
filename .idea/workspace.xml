@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2deb3d17-4b53-4a6c-9bdc-a54a9d997d34" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "youngstilz"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/youngstilz/MainTest.git",
+    "accountId": "bd7132d9-f8e8-4781-9336-38d9732fce0b"
+  }
+}]]></component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/test/java/com/example/zzz/MainPageTest.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="34TE4ToH5G6PM5nRlV2tnFPQVnw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JUnit.MainPageTest.getTextromField.executor": "Debug",
+    "JUnit.MainPageTest.search.executor": "Run",
+    "JUnit.MainPageTest1.search.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/user/Desktop/javatestProjects/zzz",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.zzz" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.MainPageTest1.search">
+    <configuration name="MainPageTest1.search" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="zzz" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.zzz.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.zzz" />
+      <option name="MAIN_CLASS_NAME" value="com.example.zzz.MainPageTest1" />
+      <option name="METHOD_NAME" value="search" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainPageTest.getTextromField" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="zzz" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.zzz.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.zzz" />
+      <option name="MAIN_CLASS_NAME" value="com.example.zzz.MainPageTest" />
+      <option name="METHOD_NAME" value="getTextromField" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainPageTest.search" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="zzz" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.zzz.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.zzz" />
+      <option name="MAIN_CLASS_NAME" value="com.example.zzz.MainPageTest" />
+      <option name="METHOD_NAME" value="search" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MainPageTest1.search" />
+        <item itemvalue="JUnit.MainPageTest.search" />
+        <item itemvalue="JUnit.MainPageTest.getTextromField" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.26830.84" />
+        <option value="bundled-js-predefined-d6986cc7102b-3aa1da707db6-JavaScript-IU-252.26830.84" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2deb3d17-4b53-4a6c-9bdc-a54a9d997d34" name="Changes" comment="" />
+      <created>1761228971177</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1761228971177</updated>
+      <workItem from="1761228972737" duration="7732000" />
+      <workItem from="1761295530003" duration="193000" />
+      <workItem from="1761295743555" duration="1570000" />
+      <workItem from="1761297353030" duration="600000" />
+      <workItem from="1761554107289" duration="1963000" />
+      <workItem from="1761558029487" duration="338000" />
+      <workItem from="1761558383790" duration="40000" />
+      <workItem from="1761571014157" duration="687000" />
+      <workItem from="1761572054041" duration="3435000" />
+      <workItem from="1761580097040" duration="1116000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
